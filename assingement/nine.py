@@ -4,4 +4,4 @@ out_off=500
 print("TOTAL MARKS =",out_off)
 percentage=obtain_marks//obtain_marks*100
 print("student percentage is",percentage)
-#cnat get corect output
+#cant get correct outout
