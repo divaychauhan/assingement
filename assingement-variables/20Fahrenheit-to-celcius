@@ -1,0 +1,4 @@
+temp=50
+print("changing the celcius in fahrenheit")
+res=(temp-32)*5//9
+print("after changing=",res)

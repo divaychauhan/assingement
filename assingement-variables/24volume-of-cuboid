@@ -1,0 +1,4 @@
+side=5
+print("the side of a cube is=",side)
+volume=side*3
+print("the volume of a cube ",volume)

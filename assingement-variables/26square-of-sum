@@ -1,0 +1,5 @@
+x=5
+y=7
+print("solve the equation='(x+y)^2',where x and y =",x ,y)
+res=(x+y)**2
+print(res)

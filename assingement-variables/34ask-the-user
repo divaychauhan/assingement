@@ -1,0 +1,9 @@
+
+print("🎬 movie Ticket 🎟️")
+print("-----------------------------------")
+movie_name=input("enter the movie name=")
+viewer_name=input("enter your name=")
+seat_number=int(input("enter your seat number="))
+show_time=int(input("enter your show time="))
+print("enjoy the show=")
+print("--------------------------------------")

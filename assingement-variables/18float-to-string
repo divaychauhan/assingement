@@ -1,0 +1,3 @@
+num1=88.5
+print("canging the number 'num1' to 'integer'=",num1)
+print("after changeing",int(num1))

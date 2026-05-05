@@ -1,0 +1,7 @@
+a=1
+b=2
+print("we want to find the sum of a^3+b^3")
+print("where a=",a)
+print("where b=",b)
+res=a**3+b**3
+print(res)
