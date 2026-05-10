@@ -6,4 +6,8 @@ print("For eligibilty we are going to cheak some points which are as follows" "\
 age=int(input("Please enter your age ="))
 monthely_income=int(input("Please enter your monthly income ="))
 credit_score=int(input("PLESE enter your credit score ="))
-outstanding_debt=int(input("Please enter your outstanding debt"))
+outstanding_debt=int(input("Please enter your outstanding debt ="))
+if age>=18 and age<=60 and monthely_income>=25000 and age>=18 and age<=60 and outstanding_debt<=10000:
+      print("You are eligable for loan")
+else:
+      print("loan is rejected")
